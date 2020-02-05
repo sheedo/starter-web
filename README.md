@@ -1,4 +1,6 @@
 # Starter Web Repo
+Rebasing example
+
 Gaza me say
 
 This repository is for showing how Git and GitHub work
