@@ -1,3 +1,4 @@
 del.txt
 *.log
 log
+*.orig
